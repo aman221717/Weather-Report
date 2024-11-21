@@ -33,7 +33,7 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository:
 
     ```bash
-    https://github.com/sharada-marasinha/Weather_App.git
+    https://github.com/aman221717/Weather-Report.git
     ```
 
 2. Open the project folder:
