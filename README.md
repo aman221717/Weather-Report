@@ -59,3 +59,5 @@ Once you have the API key, create a file named `config.js` in the root directory
 const apiKey = '4a758dd1aed04dc3950175920231609';
 
 export default apiKey;
+# Output 1&2
+file has been uploded in repository
